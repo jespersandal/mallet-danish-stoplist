@@ -16,6 +16,7 @@ bag
 bagefter
 bare
 blandt
+blev
 blot
 både
 cirka
@@ -115,6 +116,7 @@ hvem
 hverken
 hvilke
 hvilken
+hvis
 hvor
 hvordan
 hvorfor
@@ -131,6 +133,7 @@ i
 iblandt
 igen
 igennem
+ifølge
 ikke
 imellem
 imens
@@ -178,7 +181,11 @@ menes
 mente
 midt
 midtvejs
+mig
+min
 mindre
+mine
+mit
 mulig
 muligvis
 må
@@ -240,6 +247,7 @@ siden
 sidst
 siger
 snart
+som
 stadig
 stadigvæk
 så
